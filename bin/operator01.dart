@@ -1,4 +1,5 @@
-void main() {
-    int x = 7;
-    print(7 + x);
+void main(){
+int x = 10;
+int y = 5;
+print(x + y);
 }
